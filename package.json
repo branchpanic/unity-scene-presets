@@ -1,0 +1,7 @@
+{
+  "name": "com.branchpanic.scenepresets",
+  "version": "0.0.0",
+  "displayName": "Scene Presets",
+  "description": "Adds a \"Scene Presets\" menu for saving and loading editor scene configurations in multi-scene workflows.",
+  "type": "tool"
+}
